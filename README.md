@@ -8,9 +8,9 @@
 1.1 Контекст<br/>
 1.2 Бизнес цели<br/>
 1.3 Бизнес драйверы<br/>
-2. Обобщенная модель и архитектурные драйверы<br/>
+2. [Обобщенная модель и архитектурные драйверы](https://github.com/rmzvir/arch_kata/blob/feature/otus-project/generalized-model-and-architectural-drivers.md)<br/>
 2.1 Обобщенная модель<br/>
-2.2 [Архитектурные драйверы (архитектурно-значимые бизнес требования)](https://github.com/rmzvir/arch_kata/blob/feature/otus-project/generalized-model-and-architectural-drivers.md)<br/>
+2.2 Архитектурные драйверы (архитектурно-значимые бизнес требования)<br/>
    - Функциональные требования<br/>
    - Ограничения окружения и ограничения бизнесовые<br/>
 3. Описание требований<br/>
