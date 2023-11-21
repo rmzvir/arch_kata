@@ -1,7 +1,7 @@
 # Описание решения
 ## Контекстная диаграмма
-![](/diagrams/context.png)
+![](/diagrams/Context-Diagram.png)
 ## Диаграмма контейнеров
-![](/diagrams/containers.png)
+![](/diagrams/Container-Diagram.png)
 ## Диаграмма развертывания
-![](/diagrams/deployment.png)
+![](/diagrams/Deployment-Diagram.png)
