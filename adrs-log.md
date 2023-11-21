@@ -1,14 +1,14 @@
 # Лог архитектурных решений
-- ADR - Архитектурный стиль
-- ADR - Доменные события и формат кодирования avro
-- ADR - Event sourcing, потоковая обработка и аналитика
-- ADR - API composition и протоколы публичного API
-- ADR - Полнотекстовый поиск для треков
-- ADR - Рассылка нотификаций
-- ADR - Пакетный процесс создания аналитических отчетов
-- ADR - Использование http polling при получении результатов пользовательских активностей
-- ADR - Сервис онлайн агрегации пользовательских событий
-- ADR - Безопасность
-- ADR - Контейнеризация и оркестрация
-- ADR - Внешние конфигурации сервисов
-- ADR - Мониторинг, логирование, программные ошибки
+- [ADR - Архитектурный стиль](/adrs/adr-arch-style.md)
+- [ADR - Доменные события и формат кодирования avro](/adrs/adr-domain-events.md)
+- [ADR - Event sourcing, потоковая обработка и аналитика](/adrs/adr-event-sourcing.md)
+- [ADR - API composition и протоколы публичного API](/adrs/adr-api-composition-backend-for-frontend.md)
+- [ADR - Полнотекстовый поиск для треков](/adrs/elastic-for-music-tracks.md)
+- [ADR - Рассылка нотификаций](/adrs/notifications-mq-outerservice.md)
+- [ADR - Пакетный процесс создания аналитических отчетов](/adrs/system-analitics.md)
+- [ADR - Использование http polling при получении результатов пользовательских активностей](/adrs/http-polling-for-update-statuses.md)
+- [ADR - Сервис онлайн агрегации пользовательских событий](/adrs/online-event-aggregation-results.md)
+- [ADR - Безопасность](/adrs/security.md)
+- [ADR - Контейнеризация и оркестрация](/adrs/containerization-and-orchestration.md)
+- [ADR - Внешние конфигурации сервисов](/adrs/external-configuration.md)
+- [ADR - Мониторинг, логирование, программные ошибки](/adrs/monitoring-logging-exceptions.md)
