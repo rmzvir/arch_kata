@@ -26,5 +26,5 @@
    - Диаграмма контейнеров
    - Диаграмма развертывания
 
-5. [Лог архитектурных решений]()
+5. [Лог архитектурных решений](https://github.com/rmzvir/arch_kata/blob/feature/otus-project/adrs-log.md)
 
