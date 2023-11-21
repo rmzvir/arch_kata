@@ -1,7 +1,7 @@
 # Описание решения
 ## Контекстная диаграмма
-![](/diagrams/Context-Diagram.png)
+![](https://github.com/rmzvir/arch_kata/edit/feature/otus-project/diagrams/Context%20Diagram.png)
 ## Диаграмма контейнеров
-![](/diagrams/Container-Diagram.png)
+![](https://github.com/rmzvir/arch_kata/edit/feature/otus-project/diagrams/Container%20Diagram.png)
 ## Диаграмма развертывания
-![](/diagrams/Deployment-Diagram.png)
+![](https://github.com/rmzvir/arch_kata/edit/feature/otus-project/diagrams/Deployment%20Diagram.png)
