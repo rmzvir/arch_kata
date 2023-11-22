@@ -12,3 +12,4 @@
 - [ADR - Контейнеризация и оркестрация](/adrs/containerization-and-orchestration.md)
 - [ADR - Внешние конфигурации сервисов](/adrs/external-configuration.md)
 - [ADR - Мониторинг, логирование, программные ошибки](/adrs/monitoring-logging-exceptions.md)
+- [ADR - Описание контрактов микросервисов](/adrs/adr-api-consumer-driven-contract.md)
