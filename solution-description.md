@@ -4,4 +4,4 @@
 ## Диаграмма контейнеров
 ![](/diagrams/Container%20Diagram.png)
 ## Диаграмма развертывания
-![](/Deployment%20Diagram.png)
+![](/diagrams/Deployment%20Diagram.png)
